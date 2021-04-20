@@ -17,7 +17,7 @@
                                 <label>Description:</label>
                                 <textarea id="mce" name="description" rows=10 cols=100 class="form-control"></textarea>
                             </div>
-                            <button type="submit" class="btn btn-primary">Submit</button>
+                            <button type="submit" class="btn btn-primary">Patvirtint</button>
                         </form>
                     </div>
                 </div>

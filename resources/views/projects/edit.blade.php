@@ -18,7 +18,7 @@
                                 <textarea type="text" name="description" rows=10 cols=100
                                     class="form-control">{{ $projects->description }}</textarea>
                             </div>
-                            <button type="submit" class="btn btn-primary">Submit</button>
+                            <button type="submit" class="btn btn-primary">Patvirtint</button>
                         </form>
                     </div>
                 </div>
