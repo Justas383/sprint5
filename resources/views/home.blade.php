@@ -14,7 +14,7 @@
                         </div>
                     @endif
 
-                    {{ __('Tu esi prisijungęsĄ') }}
+                    {{ __('Tu esi prisijungęs!') }}
                 </div>
             </div>
         </div>
